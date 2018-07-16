@@ -1,0 +1,116 @@
+body {
+    font-family: arial;
+}
+
+.nav {
+   height: 89px;
+}
+
+a:link {
+    text-decoration: none;
+    font-family: arial;
+    font-size: 13px;
+    color: #000;
+    padding-left: 15px;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.nav-link {
+   
+}
+
+.nav-left {
+    width: 50%;
+    display: inline-block;
+}
+
+.nav-right {
+    width: 49%;
+    display: inline-block;
+    text-align: right;
+}
+
+.link {
+    display: inline-block;
+    color: #000;
+    opacity: 0.75;
+}
+
+main {
+    margin-top: 109px;
+    height: 567px;
+}
+
+main {
+    text-align: center;
+}
+
+.google-text {
+    font-family: Noto Sans;
+    font-size: 100px;
+}
+
+
+
+.g {
+    color: blue;
+}
+
+.o1 {
+    color: red;
+}
+
+.o2 {
+    color: yellow;
+}
+
+.l {
+    color: green;
+}
+
+.e {
+    color: red;
+}
+
+input[type=search] {
+    padding: 30px;
+    margin: 20px;
+    height: 34px;
+    width: 503px;
+}
+
+ button {
+    height: 36px;
+    line-height: 27px;
+    color: #757575;
+    text-align: center;
+    border: 1px;
+    background-color: #f2f2f2;
+    margin: 5px;
+}
+
+
+footer {
+    height: 20px;
+    color: #222;
+}
+
+.footer-links {
+    
+}
+
+.footer-left {
+    width: 49%;
+    display: inline-block;
+}
+
+.footer-right {
+    width: 50%;
+    display: inline-block;
+    text-align: right;
+}
+
+
